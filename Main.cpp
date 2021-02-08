@@ -1,6 +1,5 @@
 /*
-Corinne Gaines
-COSC 345
+C. Gaines
 Program demonstrating RSA encryption
 */
 
